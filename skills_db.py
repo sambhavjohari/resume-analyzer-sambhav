@@ -5,8 +5,10 @@ ROLE_SKILLS = {
         "SQL",
         "Python",
         "Power BI",
+        "Tableau",
         "Statistics",
-        "Tableau"
+        "Data Analysis",
+        "Data Visualization"
     ],
 
     "AI Engineer": [
@@ -14,6 +16,7 @@ ROLE_SKILLS = {
         "Machine Learning",
         "Deep Learning",
         "TensorFlow",
+        "PyTorch",
         "NLP",
         "Data Science"
     ],
@@ -33,6 +36,7 @@ ROLE_SKILLS = {
         "Python",
         "Git",
         "DBMS",
-        "Data Structures"
+        "Data Structures",
+        "Algorithms"
     ]
 }
