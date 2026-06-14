@@ -1,0 +1,16 @@
+Sambhav Johari
+
+Skills:
+Python
+SQL
+Excel
+Data Analysis
+C++
+DBMS
+Statistics
+
+Education:
+Bachelor of Computer Applications
+
+Projects:
+Student Data Analysis Dashboard
