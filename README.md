@@ -1,2 +1,15 @@
-# resume-analyzer-sambhav
-AI-powered Resume Analyzer &amp; Skill Gap Finder
+# Resume Analyzer & Skill Gap Finder
+
+## Features
+- Resume Upload
+- Skill Extraction
+- Match Score Calculation
+- Skill Gap Analysis
+- Learning Recommendations
+
+## Technologies Used
+- Python
+- Streamlit
+
+## Author
+Sambhav Johari
